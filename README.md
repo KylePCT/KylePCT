@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kyle Tugwell! (@KylePCT) 
 - 👀 I’m interested in Technical Art and Unity development.
 - 🌱 I’m currently learning multiplayer VR architectures.
-- 💞️ I’m looking to collaborate on VR games.
+- 💞️ I’m looking to collaborate on VR games and applications or any Technical Art roles.
 - 📫 How to reach me: ktugwell@live.co.uk or @KylePCT_ on Twitter.
 
 <!---
