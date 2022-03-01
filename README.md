@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on VR games and applications or any Technical Art roles.
 - 📫 How to reach me: ktugwell@live.co.uk or @KylePCT_ on Twitter.
 
+[MY LINKS]
 - ✨ Main Portfolio: https://www.kyletugwell.com ✨
 - ArtStation: https://kylepct.artstation.com/
 - Twitter: https://twitter.com/kylepct_
